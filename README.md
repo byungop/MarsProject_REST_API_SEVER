@@ -16,6 +16,8 @@
 # API 명세서 (정리중)
 <div>
   <img width="479" alt="1" src="https://user-images.githubusercontent.com/59325859/98060343-b7a17a80-1e8c-11eb-9766-9582bb28d77b.png">
+</div>
+<div>
   <img width="513" alt="2" src="https://user-images.githubusercontent.com/59325859/98060348-b96b3e00-1e8c-11eb-970a-5fc3bb3cc264.png">
 </div>
 
