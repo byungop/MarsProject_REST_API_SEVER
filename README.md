@@ -1,6 +1,10 @@
-# MarsProject_REST_API_SEVER
-현재 진행하고 있는 오픈소스 프로젝트 REST API 서버 구축과정
-( 아키텍쳐 및 소스로직 정리 중 )
+# MarsProject_REST_API_SEVER ( 아키텍쳐 및 소스로직 정리 중 )
+- MARS 프로젝트는 저작권으로 인한 불편을 해소하기 위해 다양한 분야에 저작권 없는 이미지 데이터셋을 공급하려는 프로젝트 입니다.
+- MARS 프로젝트 학습모델로 생성되는 데이터셋은 모두 저작권 없는 이미지이며, 학술 및 상업적 목적으로 자유롭게 사용할 수 있습니다. 
+- 예시 이미지 (10월 중순 결과물, 계속 개선 중)
+<div>
+  <img width="2050" alt="1" src="https://user-images.githubusercontent.com/59325859/98061435-3992a300-1e8f-11eb-85b3-1c47cfda58c1.png">
+</div>
 
 # 서버 아키텍쳐 정리
 
