@@ -7,6 +7,7 @@
 </div>
 
 # 서버 아키텍쳐 정리
+- MARS 프로젝트로 생성되는 데이터셋을 사용자들에게 OPEN API로 제공하기 위한 서버 및 웹페이지 제작중입니다.
 
 <div>
   <img width="797" alt="제목 없음" src="https://user-images.githubusercontent.com/59325859/98059872-7d83a900-1e8b-11eb-9c70-09638b7cfe1a.png">
