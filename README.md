@@ -14,6 +14,7 @@
 </div>
 
 # 서버 예제 정리
+- PYPI 라이브러리 패키지 업로드 예제정리 : https://gist.github.com/byungop/fed7a40c4544173d493d903e395b1dbd
 - FlASK REST API 서버구축 예제정리 : https://gist.github.com/byungop/37c846cf328fe97053495829599c06ed
 - Pymysql 예제정리 : https://gist.github.com/byungop/f76884b526b152650b58c35af05adcb1
 - Pymongo 예제정리 : https://gist.github.com/byungop/878f2387507b255091855ffaf24c990c
